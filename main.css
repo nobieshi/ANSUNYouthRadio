@@ -35,6 +35,9 @@ header p {
 section p {
   color: #ffffff
 }
+section h3 {
+  color: #ffffff
+}
 
 .jumbotron {
   display: flex;

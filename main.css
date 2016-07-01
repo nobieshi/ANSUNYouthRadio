@@ -44,7 +44,7 @@ section h3 {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url(...);
+  background-image: image(gallery1.jpg);
   background-size: cover;
   color: #ffffff;
   height: 500px;

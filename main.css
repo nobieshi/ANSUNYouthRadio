@@ -19,7 +19,7 @@ footer .row {
 header h1 {
   font-weight: 700;
   margin: 0;
-  color: #ffffff
+  color: white; 
 }
 
 header nav {
@@ -33,11 +33,11 @@ header p {
   color: #ffffff
 }
 section p {
-  color: #ffffff
+  color: white;
   padding: 0 20px;
 }
 section h3 {
-  color: #ffffff
+  color: white;
 }
 
 .jumbotron {
